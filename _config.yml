@@ -43,22 +43,18 @@ plugins: [jekyll-paginate]
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: a84c2a57837302767371                            #生成的clientID
-  clientSecret: 847046720bec629fbd3580d8f3cc617ab9d3a27a    #生成的clientSecret
-  repo: wumeilian.github.io    #仓库名称
-  owner: wumeilian    #github用户名
-  admin: wumeilian
+  clientID: 97042ed972289a57cd50                            #生成的clientID
+  clientSecret: 9ee6b2bf97644d004dc1ed32facd4c9a8193cdb6    #生成的clientSecret
+  repo: gopzhe.github.io    #仓库名称
+  owner: gopzhe    #github用户名
+  admin: gopzhe
   # distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # Friends
 friends: [
   {
-    title: "wfm's github",
-    href: "https://wfm19970.github.io/"
+    title: "Deepdarkfantasy",
+    href: "http://deepdarkfantasy.fun"
   },
-  {
-    title: "chenshuyao's blog",
-    href: "https://chenshuyao.cn/"
-  }
 ]
